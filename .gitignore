@@ -54,6 +54,10 @@ shared_files_4/
 *.log
 *.tmp
 
+# Dependencies & Node Modules
+node_modules/
+**/node_modules/
+
 # IDE / OS metadata
 .vscode/
 .idea/
